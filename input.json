@@ -1,0 +1,6 @@
+{
+    "IntegerParam": 123,
+    "BooleanParam": true,
+    "StringParam": "Example string",
+    "Description": "これは設定ファイルのサンプルです。"
+}
